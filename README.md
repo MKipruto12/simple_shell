@@ -42,9 +42,4 @@
 
 Example of an error with `sh`:
 
-> `$ echo "qwerty" | /bin/sh`
-> `/bin/sh: 1: qwerty: not found`
-> `$ echo "qwerty" | /bin/../bin/sh`
-> `/bin/../bin/sh: 1: qwerty: not found`
-> `$`
-
+![alt text](view-source:https://github.com/Pericles001/simple_shell)

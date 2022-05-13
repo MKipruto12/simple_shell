@@ -11,5 +11,5 @@
 
 
  ## Authors
-- **Mercy Kipruto** - [mercykipruto2017@gmail.com](https://github.com/MKipru    to12)
+- **Mercy Kipruto** - [mercykipruto2017@gmail.com](https://github.com/MKipruto12)
 - **Jumba Mark** - [jumbamark@yahoo.com](https://github.com/jumbamark

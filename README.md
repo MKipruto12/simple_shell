@@ -42,4 +42,14 @@
 
 Example of an error with `sh`:
 
-![alt text](view-source:https://github.com/Pericles001/simple_shell)
+```json
+$ echo "qwerty" | /bin/sh /bin/sh: 1: qwerty: not found
+$ echo "qwerty" | /bin/../bin/sh
+/bin/../bin/sh: 1: qwerty: not found
+$
+```
+
+Same error with your program `hsh`:
+
+```$ echo "qwerty" | ./hsh    ./hsh: 1: qwerty: not found    $ echo "qwerty" | ./././hsh    ./././hsh: 1: qwerty: not found    $```
+

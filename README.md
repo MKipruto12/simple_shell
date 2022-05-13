@@ -1,5 +1,9 @@
-i simple shell project
+# simple shell project
 
+```diff
+-[x]Work in progress
+-[]Done
+'''
 
 ![alt text](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/235/shell.jpeg)
 
@@ -156,7 +160,7 @@ You don’t have to:
 
 > * use the `PATH`
 > * implement built-ins
-> * handle special characters : ```json ", ', `, \, *, &, #```
+> * handle special characters : ```", ', `, \, *, &, #```
 > * be able to move the cursor
 > * handle commands with arguments
 

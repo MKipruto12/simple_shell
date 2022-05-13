@@ -3,10 +3,10 @@
 /**
  * main -  prints "$ " and waits for the user to enter a command
  *
- * Return : 0 if successful
+ * Return: 0 if successful
  */
 
-int main()
+int main(void)
 {
 	char cmd[20];
 
@@ -15,7 +15,7 @@ int main()
 	{
 		printf("%s\n", cmd);
 		system(cmd);
-		print("$ ");
+		printf("$ ");
 	}
 
 	return (0);

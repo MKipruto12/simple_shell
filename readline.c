@@ -1,4 +1,4 @@
-#include "main.h"
+#include "shell.h"
 
 /**
  * main -  prints "$ " and waits for the user to enter a command
